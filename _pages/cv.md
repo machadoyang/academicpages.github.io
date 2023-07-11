@@ -9,51 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Work experience
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Front-end developer and water resources analyst (2019 - *present*)
+    * [FlowBr](https://flowbr.org/)
+    * Duties Included: Development of the SIGA monitoring module and general system maintenance. Helped develop an
+     integrated water resources system used by three state water agencies in Brazil so far. Developed an innovative
+     interface to explore national hydrometeorological data.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Undergraduate Teaching Internship in Applied Hydrology (2023.1)
+    * Federal University of Pernambuco
+    * Duties Included: plan and teach classes, design extra activities to Civil Engineering Students.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Undergraduate Teaching Intership in Fluid Mechanics (2018.2, 2019.2)
+    * Federal University of Pernambuco
+    * Duties included: plan and teach classes, design exams and extra activities in Fluid Mechanics classes
+    for students of Civil Engineering, Electrical Engineering and Electronic Engineering.
+
+* Ph.D Researcher (2019 - *present*)
+    * Federal University of Pernambuco
+    * Duties included: field interviews, design and run [agent-based model](https://github.com/machadoyang/abm_water_canal),
+     design and run choice experiments, data wrangling
+
+* Master researcher (2017 - 2019)
+  * Federal University of Pernambuco
+  * Duties included: water quality lab management, buy reagents and equipment, lab analysis, field work
+ 
+## Education
+
+* Ph.D in Environmental Technology and Water Resources, Federal University of Pernambuco, Brazil, 2024 (expected)
+* M.S. in Environmental Technology and Water Resources, Federal University of Pernambuco, Brazil, 2019
+* B.S. in Environmental and Sanitation Engineering, Federal University of Alagoas, Brazil, 2017
+ 
+## Skills
+
+* Languages: Portuguese (native), english (fluent), french (beginner/intermediate)
+* Programming:
+    * Data-science related: Python, pandas, geopandas, scikit-learn, matplotlib and plotly, pymc, basic SQL
+    * Front-end related: javascript, html/css/javascript/typescript, ReactJS, Material-UI, Semantic-UI, leaflet
+    * Other: Docker, Django, ORM database design, Git/Github
+* Explain technical concepts to different types of audience: teacher, volunteer teacher, teaching assistant and teaching
+internship in a variety of topics such as mathematics, environmental chemistry, advanced calculus, statistics,
+fluid mechanics and hydrology (with audiences from 1 to 100)
+* Leadership: Co-directed teams of 1-5 researchers to complete research projects.
+* Innovative problem-solving: Published 2 methodology-focused papers.
+* Sharing findings in written form: Published several peer-reviewed publications from research findings to prestigious
+journals and conferences.
