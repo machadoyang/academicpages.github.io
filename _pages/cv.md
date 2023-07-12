@@ -46,7 +46,7 @@ redirect_from:
 * Languages: Portuguese (native), english (fluent), french (beginner/intermediate)
 * Programming:
     * Data-science related: Python, pandas, geopandas, scikit-learn, matplotlib and plotly, pymc, basic SQL
-    * Front-end related: javascript, html/css/javascript/typescript, ReactJS, Material-UI, Semantic-UI, leaflet
+    * Front-end related: javascript/typescript, html/css, ReactJS, Material-UI, Semantic-UI, leaflet
     * Other: Docker, Django, ORM database design, Git/Github
 * Explain technical concepts to different types of audience: teacher, volunteer teacher, teaching assistant and teaching
 internship in a variety of topics such as mathematics, environmental chemistry, advanced calculus, statistics,
