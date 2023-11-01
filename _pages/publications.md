@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## Journal papers
+[**Impact of water allocation oversight in irrigation systems: an agent-based model approach**](https://doi.org/10.1590/2318-0331.282320230065)
+\
+**Yan R. Machado Gomes**, Christopher Freire Souza, Augusto H. Farias da Cunha, Suzana M. Gico Lima Montenegro
+\
+Brazilian Journal of Water Resources (RBRH)
+\
+[Code available](https://github.com/machadoyang/irrigation_abm.git)
+
 [**Estimating flood recurrence uncertainty for non-stationary regimes (2023)**](https://doi.org/10.1590/2318-0331.282320230031)
 \
 **Yan R. Machado Gomes**, Laís de Almeida Marques & Christopher Freire Souza
@@ -34,6 +42,32 @@ Sustainable Water Resources Management
 Sustainable Water Resources Management
 
 ## Conference papers
+
+**System of Hydro-meteorological Web Monitoring for State Scale Water Resource Information Management (2023)** *in portuguese*
+\
+**Yan R. Machado Gomes**, Carlos R. Fragoso Junior, Christopher Freire Souza, Regina Camara Lins, Alexandre Marinho Lemos Filho 
+& Wallisson R. de Magalhães Neves
+\
+XXV Brazilian Symposium of Water Resources
+
+**SIGA: a scalable and customizable water resource information system for statewide use (2023)** *in portuguese*
+\
+Carlos R. Fragoso Junior, Christopher Freire Souza, **Yan R. Machado Gomes**, Clebson Carvalho de Farias, Regina Camara Lins,
+Alexandre Marinho Lemos Filho & Wallisson R. de Magalhães Neves
+\
+XXV Brazilian Symposium of Water Resources
+
+**Mapping of Water Mirrors in Reservoirs and their Areas with Sentinel-1 (2023)** *in portuguese*
+\
+Pedro L. Bernardo Costa, **Yan R. Machado Gomes** & Christopher Freire Souza
+\
+XXV Brazilian Symposium of Water Resources
+
+**Estimation of Water Availability Using a Probabilistic Approach Based on Budyko's Hypotheses and the Fu Equation (2023)** *in portuguese*
+\
+Aristides G. da Silva, Christopher Freire Souza & **Yan R. Machado Gomes**
+\
+XXV Brazilian Symposium of Water Resources
 
 [**Initial Considerations on the Water Quality of Ecological Roofs in an Urban Area (2021)** *in portuguese*](https://www.researchgate.net/publication/371938388_Consideracoes_Iniciais_Sobre_a_Qualidade_de_Agua_de_Telhados_Ecologicos_em_Area_Urbana)
 \
