@@ -50,7 +50,7 @@ Sustainable Water Resources Management
 \
 XXV Brazilian Symposium of Water Resources
 
-**SIGA: a scalable and customizable water resource information system for statewide use (2023)** *in portuguese*
+**SIGA: a scalable and Customizable Water Resource Information System for State Scale Use (2023)** *in portuguese*
 \
 Carlos R. Fragoso Junior, Christopher Freire Souza, **Yan R. Machado Gomes**, Clebson Carvalho de Farias, Regina Camara Lins,
 Alexandre Marinho Lemos Filho & Wallisson R. de Magalhães Neves

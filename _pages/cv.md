@@ -10,8 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience
+* Ph.D Visiting Researcher (2023 - *present*)
+  * University of Copenhagen - Department of Food and Resource Economics (IFRO)
+  * Duties Included: design choice experiment in a water context and analyse results
 
-* Front-end developer and water resources analyst (2019 - *present*)
+* Front-end developer and water resources analyst (2019 - 2023)
     * [FlowBr](https://flowbr.org/)
     * Duties Included: Development of the SIGA monitoring module and general system maintenance. Helped develop an
      integrated water resources system used by three state water agencies in Brazil so far. Developed an innovative
@@ -31,7 +34,7 @@ redirect_from:
     * Duties included: field interviews, design and run [agent-based model](https://github.com/machadoyang/abm_water_canal),
      design and run choice experiments, data wrangling
 
-* Master researcher (2017 - 2019)
+* Master Researcher (2017 - 2019)
   * Federal University of Pernambuco
   * Duties included: water quality lab management, buy reagents and equipment, lab analysis, field work
  
@@ -43,7 +46,7 @@ redirect_from:
  
 ## Skills
 
-* Languages: Portuguese (native), english (fluent), french (beginner/intermediate)
+* Languages: Portuguese (native), English (fluent), French (beginner/intermediate)
 * Programming:
     * Data-science related: Python, pandas, geopandas, scikit-learn, matplotlib and plotly, pymc, basic SQL
     * Front-end related: javascript/typescript, html/css, ReactJS, Material-UI, Semantic-UI, leaflet
