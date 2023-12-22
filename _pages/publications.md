@@ -43,27 +43,27 @@ Sustainable Water Resources Management
 
 ## Conference papers
 
-**System of Hydro-meteorological Web Monitoring for State Scale Water Resource Information Management (2023)** *in portuguese*
+[**System of Hydro-meteorological Web Monitoring for State Scale Water Resource Information Management (2023)** *in portuguese*](https://anais.abrhidro.org.br/job.php?Job=15241)
 \
 **Yan R. Machado Gomes**, Carlos R. Fragoso Junior, Christopher Freire Souza, Regina Camara Lins, Alexandre Marinho Lemos Filho 
 & Wallisson R. de Magalhães Neves
 \
 XXV Brazilian Symposium of Water Resources
 
-**SIGA: a scalable and Customizable Water Resource Information System for State Scale Use (2023)** *in portuguese*
+[**SIGA: a scalable and Customizable Water Resource Information System for State Scale Use (2023)** *in portuguese*](https://anais.abrhidro.org.br/job.php?Job=15724)
 \
 Carlos R. Fragoso Junior, Christopher Freire Souza, **Yan R. Machado Gomes**, Clebson Carvalho de Farias, Regina Camara Lins,
 Alexandre Marinho Lemos Filho & Wallisson R. de Magalhães Neves
 \
 XXV Brazilian Symposium of Water Resources
 
-**Mapping of Water Mirrors in Reservoirs and their Areas with Sentinel-1 (2023)** *in portuguese*
+[**Mapping of Water Mirrors in Reservoirs and their Areas with Sentinel-1 (2023)** *in portuguese*](https://anais.abrhidro.org.br/job.php?Job=15351)
 \
 Pedro L. Bernardo Costa, **Yan R. Machado Gomes** & Christopher Freire Souza
 \
 XXV Brazilian Symposium of Water Resources
 
-**Estimation of Water Availability Using a Probabilistic Approach Based on Budyko's Hypotheses and the Fu Equation (2023)** *in portuguese*
+[**Estimation of Water Availability Using a Probabilistic Approach Based on Budyko's Hypotheses and the Fu Equation (2023)** *in portuguese*](https://anais.abrhidro.org.br/job.php?Job=15895)
 \
 Aristides G. da Silva, Christopher Freire Souza & **Yan R. Machado Gomes**
 \
